@@ -1,0 +1,65 @@
+
+#d1{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50px, 50px;
+    border-radius: 50%;
+    border-style: solid;
+    }
+#d2{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50px, 50px;
+    border-radius: 50%;
+    border-style: solid;
+
+    }
+#d3{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50px, 50px;
+    border-style: solid;
+    border-radius: 50%;
+    }
+#d4{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50px, 50px;
+    border-style: solid;
+    border-radius: 50%;
+    }
+#d5{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50px, 50px;
+    border-style: solid;
+    border-radius: 50%;
+    }
+
+#no1{
+    background-color: red;
+    color: white;
+}
+#no2{
+    background-color: blue;
+    color: white;
+}
+#no3{
+    background-color: green;
+    color: white;
+}
+#no4{
+    background-color: yellow;
+    color: white;
+}
+#no5{
+    background-color: aqua;
+    color: white;
+}
+
+
